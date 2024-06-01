@@ -1,0 +1,28 @@
+.container{
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  svg{
+    position: fixed;
+  }
+
+  .blob1{
+    animation: rotate1 20s ease-in-out infinite alternate-reverse;
+  }
+
+  .blob2{
+    animation: rotate2 25s ease-in-out infinite alternate-reverse;
+  }
+}
+
+@keyframes rotate1 {
+  to{
+    transform: rotate(1turn) scale(0.4);
+  }
+}
+@keyframes rotate2{
+  to{
+    transform: rotate(-1turn) scale(1.8);
+  }
+}

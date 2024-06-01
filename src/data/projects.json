@@ -1,0 +1,23 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "name": "pawfinder",
+      "displayedName": "PAWFINDER",
+      "type": "nonCommercial",
+      "description": "A simple advertising portal to find pets a new owner.",
+      "demos": [
+        {
+          "name": "LIVE",
+          "url": "https://pawfinder.jakubszymanski.dev",
+          "github": "https://github.com/szymanskijakub/pawfinder-react"
+        },
+        {
+          "name": "API",
+          "url": "https://pawfinder.api.jakubszymanski.dev",
+          "github": "https://github.com/szymanskijakub/pawfinder-nest"
+        }
+      ]
+    }
+  ]
+}

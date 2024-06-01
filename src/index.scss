@@ -5,12 +5,14 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: #1E1E1C;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  width: 100%;
+  height: 100%;
 }
 
 a {
@@ -24,10 +26,12 @@ a:hover {
 
 body {
   margin: 0;
+  padding: 0;
   display: flex;
   place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+  min-width: 100%;
+  min-height: 100%;
+  position: relative;
 }
 
 h1 {
@@ -66,3 +70,40 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+@font-face {
+  font-family: "Cy Grotesk Wide Heavy";
+  src: url("/fonts/CyGrotesk/CyGrotesk-WideHeavy.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "Cy Grotesk Wide Semi";
+  src: url("/fonts/CyGrotesk/CyGrotesk-WideDemi.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "Cy Grotesk Wide Regular";
+  src: url("/fonts/CyGrotesk/CyGrotesk-WideRegular.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "Cy Grotesk Wide Dark";
+  src: url("/fonts/CyGrotesk/CyGrotesk-WideDark.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "Cy Grotesk Key Heavy";
+  src: url("/fonts/CyGrotesk/CyGrotesk-KeyHeavy.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "Cy Grotesk Grand Light";
+  src: url("/fonts/CyGrotesk/CyGrotesk-GrandLight.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "Cy Grotesk Grand Regular";
+  src: url("/fonts/CyGrotesk/CyGrotesk-GrandRegular.otf") format("truetype");
+}
+
+
