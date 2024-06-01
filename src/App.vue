@@ -1,30 +1,24 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <div>
-    <a href="https://vitejs.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
-    </a>
-  </div>
-  <HelloWorld msg="Vite + Vue" />
+  <header>
+    <h1>Soon...</h1>
+    <h4>work in progress</h4>
+  </header>
 </template>
 
 <style scoped>
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
+body{
+  background: #1E1E1C !important;
 }
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+header{
+  padding: 50px 250px;
+  border-radius: 20px;
+  background: #5271FF;
 }
-.logo.vue:hover {
-  filter: drop-shadow(0 0 2em #42b883aa);
+
+h4{
+  font-weight: 300;
 }
 </style>

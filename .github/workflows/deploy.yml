@@ -1,0 +1,43 @@
+name: Deploy to VPS
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: yarn install
+
+      - name: Install dependencies
+        run: yarn run build
+
+      - name: Deploy to VPS
+        uses: appleboy/ssh-action@v0.1.10
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.PRIVATE_KEY }}
+          port: 22
+          script: |
+            eval "$(ssh-agent -s)"
+            ssh-add ~/.ssh/id_github
+            ssh -T git@github.com
+            cd /var/www/jakubszymanski.dev/szymanskijakub
+            git config --global --add safe.directory /var/www/jakubszymanski.dev/szymanskijakub
+            git checkout .
+            git pull
+            yarn install
+            yarn run build
