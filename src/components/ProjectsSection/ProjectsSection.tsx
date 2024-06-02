@@ -1,5 +1,5 @@
 import styles from "./ProjectsSection.module.scss"
-import projectsData from "../../data/projects.json"
+import projectsData from "../../data/projects/projects.json"
 import Project from "../Project/Project.tsx";
 const ProjectsSection = () => (
     <div className={styles.container}>

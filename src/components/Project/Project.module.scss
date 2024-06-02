@@ -1,27 +1,33 @@
 .project{
   .name{
     font-family: "Cy Grotesk Wide Semi";
+    margin-block-end: 0;
   }
 
   .type{
-
+    font-family: "Cy Grotesk Wide Light";
+    margin-block-start: 0;
   }
 
   .description{
-
+    font-family: "Cy Grotesk Wide Regular";
   }
 
   .demo{
+    margin: 10px 0;
     .demoName{
-
+      font-family: "Cy Grotesk Wide Dark";
     }
 
     .demoGithub{
-
+      font-family: "Cy Grotesk Wide Dark";
+      color: #fff;
     }
 
     .demoUrl{
-
+      font-size: .9rem;
+      margin: 0;
+      font-family: "Cy Grotesk Grand Regular";
     }
   }
 }

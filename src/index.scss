@@ -4,7 +4,6 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
   background-color: #1E1E1C;
 
   font-synthesis: none;
@@ -17,8 +16,7 @@
 
 a {
   font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
+  color: #5271FF;
 }
 a:hover {
   color: #535bf2;
@@ -58,52 +56,44 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
-}
-
 @font-face {
   font-family: "Cy Grotesk Wide Heavy";
-  src: url("/fonts/CyGrotesk/CyGrotesk-WideHeavy.otf") format("truetype");
+  src: url("./assets/fonts/CyGrotesk/CyGrotesk-WideHeavy.otf") format("truetype");
 }
 
 @font-face {
   font-family: "Cy Grotesk Wide Semi";
-  src: url("/fonts/CyGrotesk/CyGrotesk-WideDemi.otf") format("truetype");
+  src: url("./assets/fonts/CyGrotesk/CyGrotesk-WideDemi.otf") format("truetype");
 }
 
 @font-face {
   font-family: "Cy Grotesk Wide Regular";
-  src: url("/fonts/CyGrotesk/CyGrotesk-WideRegular.otf") format("truetype");
+  src: url("./assets/fonts/CyGrotesk/CyGrotesk-WideRegular.otf") format("truetype");
 }
 
 @font-face {
   font-family: "Cy Grotesk Wide Dark";
-  src: url("/fonts/CyGrotesk/CyGrotesk-WideDark.otf") format("truetype");
+  src: url("./assets/fonts/CyGrotesk/CyGrotesk-WideDark.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "Cy Grotesk Wide Light";
+  src: url("./assets/fonts/CyGrotesk/CyGrotesk-WideLight.otf") format("truetype");
 }
 
 @font-face {
   font-family: "Cy Grotesk Key Heavy";
-  src: url("/fonts/CyGrotesk/CyGrotesk-KeyHeavy.otf") format("truetype");
+  src: url("./assets/fonts/CyGrotesk/CyGrotesk-KeyHeavy.otf") format("truetype");
 }
 
 @font-face {
   font-family: "Cy Grotesk Grand Light";
-  src: url("/fonts/CyGrotesk/CyGrotesk-GrandLight.otf") format("truetype");
+  src: url("./assets/fonts/CyGrotesk/CyGrotesk-GrandLight.otf") format("truetype");
 }
 
 @font-face {
   font-family: "Cy Grotesk Grand Regular";
-  src: url("/fonts/CyGrotesk/CyGrotesk-GrandRegular.otf") format("truetype");
+  src: url("./assets/fonts/CyGrotesk/CyGrotesk-GrandRegular.otf") format("truetype");
 }
 
 

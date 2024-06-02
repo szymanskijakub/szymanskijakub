@@ -1,0 +1,14 @@
+{
+  "socialIcons": [
+    {
+      "name": "GitHub",
+      "icon": "/icons/github_icon.png",
+      "url": "https://github.com/szymanskijakub"
+    },
+    {
+      "name": "LinkedIn",
+      "icon": "/icons/linkedin_icon.png",
+      "url": "https://linkedin.com/in/jakub-szymański04"
+    }
+  ]
+}
