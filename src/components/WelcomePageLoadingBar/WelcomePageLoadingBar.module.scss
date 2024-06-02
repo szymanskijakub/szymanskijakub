@@ -1,0 +1,33 @@
+.container{
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  z-index: 150;
+
+  .infoText{
+    margin: 0px 0px 20px 50px;
+    font-family: "Cy Grotesk Wide Heavy";
+    font-size: 5rem;
+    -webkit-text-stroke: 2px white;
+    -webkit-text-fill-color: transparent;
+    position: relative;
+  }
+
+  .bottomLine{
+    height: 10px;
+    width: 35%;
+    background: #5271FF;
+  }
+}
+
+@media screen and (max-width: 768px){
+  .infoText{
+    font-size: 3rem !important;
+  }
+
+  .bottomLine{
+    width: 50% !important;
+  }
+}
+

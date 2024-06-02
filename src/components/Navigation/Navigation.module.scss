@@ -1,0 +1,32 @@
+nav{
+  height: 70px;
+  z-index: 150;
+  position: relative;
+  display: flex;
+  .logo{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    img{
+      margin-left: 20px;
+      width: auto;
+      height: 30px;
+    }
+  }
+
+  .socials{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    a{
+      padding: 10px;
+      img{
+        width: auto;
+        height: 30px;
+      }
+    }
+  }
+}
