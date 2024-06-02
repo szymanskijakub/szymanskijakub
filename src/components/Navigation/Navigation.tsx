@@ -23,8 +23,8 @@ const Navigation = () => {
     blobOneElement.style.animationPlayState = "paused";
     blobTwoElement.style.animationPlayState = "paused";
 
-    blobOneElement.style.scale = `${scaleValue}`;
-    blobTwoElement.style.scale = `${scaleValue * 2}`;
+    blobOneElement.style.scale = `${scaleValue * 2}`;
+    blobTwoElement.style.scale = `${scaleValue}`;
   };
 
   const handleMouseEnter = () => handleScalingBlob("enter");

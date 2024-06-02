@@ -17,11 +17,13 @@
   }
 
   .blob1{
-    animation: rotate1 20s;
+    animation-name: rotate1;
+    animation-duration: 20s;
   }
 
   .blob2{
-    animation: rotate2 25s;
+    animation-name: rotate2;
+    animation-duration: 30s;
   }
 }
 
