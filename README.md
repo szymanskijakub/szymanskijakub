@@ -9,6 +9,7 @@ I'm programmer, specialising in **web development**. Coding since **2018**, main
 # Portfolio
 ## Personal website
 ### [jakubszymanski.dev](https://jakubszymanski.dev)
+### WORK IN PROGRESS
 My personal website where I keep my projects, source code in this repo 👆
 
 ## Pawfinder
