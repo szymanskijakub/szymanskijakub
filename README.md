@@ -3,7 +3,7 @@
 
 # Hi, I'm Kuba 👋
 
-I'm programmer, specialising in **web development**. Coding since **2018**, mainly in **TypeScript** and frontend frameworks such as **React** and **Next.js**, not afraid of diving into backend code. ⌨️ Currently learning mobile app development. 📱
+I'm programmer, specialising in **web development**. Coding since **2018**, mainly in **TypeScript** and frontend frameworks such as **React** and **Next.js**, not afraid of diving into backend code. Currently learning mobile app development. 📱
 
 
 # Portfolio
