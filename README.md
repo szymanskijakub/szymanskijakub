@@ -1,30 +1,43 @@
-# React + TypeScript + Vite
+# Hi, I'm Kuba 👋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I'm programmer, specialising in **web development**. Coding since **2018**, mainly in **TypeScript** and frontend frameworks such as **React** and **Next.js**, not afraid of diving into backend code. ⌨️ Currently learning mobile app development. 📱
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Portfolio
+## Personal website
+### [jakubszymanski.dev](https://jakubszymanski.dev)
+My personal website where I keep my projects, source code in this repo 👆
 
-## Expanding the ESLint configuration
+## Pawfinder
+### [pawfinder.jakubszymanski.dev](https://pawfinder.jakubszymanski.dev) / [GitHub](https://github.com/szymanskijakub/pawfinder-react)
+### [pawfinder.api.jakubszymanski.dev](https://pawfinder.api.jakubszymanski.dev) / [GitHub](https://github.com/szymanskijakub/pawfinder-nest)
+### NON-COMMERCIAL PROJECT
+A simple advertising portal to find pets a new owner.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
-- Configure the top-level `parserOptions` property like this:
+## Spotify Clone App
+### WORK IN PROGRESS 🤫
+### NON-COMMERCIAL PROJECT
+Music playback app connected to Spotify API.
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+# STACK
+## Frontend
+- React
+- Next.js
+- Gatsby.js
+- SASS (SCSS)
+- Redux / Redux Toolkit
+- Vue (beginner)
+- GSAP / Anime.js
+- React Native (learning)
+- WordPress
+## Backend
+- Nest.js
+- Next.js
+- SQL / TypeORM
+- PHP (beginner)
+- GCP
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+If you want to message me, let's connect on [LinkedIn](https://www.linkedin.com/in/jakub-szyma%C5%84ski04) :) 
+
+  
