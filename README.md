@@ -8,7 +8,7 @@ I'm a programmer, specialising in web development. Coding since 2018, mainly in 
 
 # Portfolio
 ## Personal website
-### LIVE [jakubszymanski.dev](https://jakubszymanski.dev)
+### LIVE [jakubszymanski.dev](https://jakubszymanski.dev) / [GitHub](https://github.com/szymanskijakub/pawfinder-nest)
 ### WORK IN PROGRESS
 My personal website where I keep my projects, source code in this repo 👆
 
