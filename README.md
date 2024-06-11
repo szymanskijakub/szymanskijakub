@@ -20,7 +20,7 @@ A simple advertising portal to find pets a new owner.
 
 
 ## Spotify Clone App
-### WORK IN PROGRESS 🤫
+### WORK IN PROGRESS 🤫 / [GitHub](https://github.com/szymanskijakub/spotify-clone-app)
 ### NON-COMMERCIAL PROJECT
 Music playback app connected to Spotify API.
 
