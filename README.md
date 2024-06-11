@@ -43,6 +43,6 @@ Music playback app connected to Spotify API.
 - PHP (beginner)
 - GCP
 
-If you want to message me, let's connect on [LinkedIn](https://www.linkedin.com/in/jakub-szyma%C5%84ski04) or you can also [mail](mailto:yaaqov147@gmail.com) me :) 
+If you want to message me, let's connect on [LinkedIn](https://www.linkedin.com/in/jakub-szyma%C5%84ski04), you can also [mail](mailto:yaaqov147@gmail.com) me :) 
 
   
