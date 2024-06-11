@@ -8,13 +8,13 @@ I'm a programmer, specialising in web development. Coding since 2018, mainly in 
 
 # Portfolio
 ## Personal website
-### [jakubszymanski.dev](https://jakubszymanski.dev)
+### LIVE [jakubszymanski.dev](https://jakubszymanski.dev)
 ### WORK IN PROGRESS
 My personal website where I keep my projects, source code in this repo 👆
 
 ## Pawfinder
-### [pawfinder.jakubszymanski.dev](https://pawfinder.jakubszymanski.dev) / [GitHub](https://github.com/szymanskijakub/pawfinder-react)
-### [pawfinder.api.jakubszymanski.dev](https://pawfinder.api.jakubszymanski.dev) / [GitHub](https://github.com/szymanskijakub/pawfinder-nest)
+### LIVE [pawfinder.jakubszymanski.dev](https://pawfinder.jakubszymanski.dev) / [GitHub](https://github.com/szymanskijakub/pawfinder-react)
+### API [pawfinder.api.jakubszymanski.dev](https://pawfinder.api.jakubszymanski.dev) / [GitHub](https://github.com/szymanskijakub/pawfinder-nest)
 ### NON-COMMERCIAL PROJECT
 A simple advertising portal to find pets a new owner.
 
