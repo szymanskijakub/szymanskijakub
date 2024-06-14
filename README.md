@@ -6,6 +6,25 @@
 I'm a programmer, specialising in web development. Coding since 2018, mainly in TypeScript and frontend frameworks such as React and Next.js, but also not afraid of diving into backend code. Currently learning mobile app development. 📱
 
 
+# Tech stack
+## Frontend
+- React
+- React Router v6
+- Next.js
+- Gatsby.js
+- SASS (SCSS)
+- Redux / Redux Toolkit
+- Vue (beginner)
+- GSAP / Anime.js
+- React Native (learning)
+- WordPress
+## Backend
+- Nest.js
+- Next.js
+- SQL / TypeORM
+- PHP (beginner)
+- GCP
+
 # Portfolio
 ## Personal website
 ### LIVE [jakubszymanski.dev](https://jakubszymanski.dev) / [GitHub](https://github.com/szymanskijakub/pawfinder-nest)
@@ -24,24 +43,6 @@ A simple advertising portal to find pets a new owner.
 ### NON-COMMERCIAL PROJECT
 Music playback app connected to Spotify API.
 
-# STACK
-## Frontend
-- React
-- React Router v6
-- Next.js
-- Gatsby.js
-- SASS (SCSS)
-- Redux / Redux Toolkit
-- Vue (beginner)
-- GSAP / Anime.js
-- React Native (learning)
-- WordPress
-## Backend
-- Nest.js
-- Next.js
-- SQL / TypeORM
-- PHP (beginner)
-- GCP
 
 If you want to message me, let's connect on [LinkedIn](https://www.linkedin.com/in/jakub-szyma%C5%84ski04), you can also [mail](mailto:yaaqov147@gmail.com) me :) 
 
