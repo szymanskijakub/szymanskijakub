@@ -31,13 +31,6 @@ I'm a programmer, specialising in web development. Coding since 2018, mainly in 
 ### WORK IN PROGRESS
 My personal website where I keep my projects, source code in this repo 👆
 
-## Pawfinder
-### LIVE [pawfinder.jakubszymanski.dev](https://pawfinder.jakubszymanski.dev) / [GitHub](https://github.com/szymanskijakub/pawfinder-react)
-### API [pawfinder.api.jakubszymanski.dev](https://pawfinder.api.jakubszymanski.dev) / [GitHub](https://github.com/szymanskijakub/pawfinder-nest)
-### NON-COMMERCIAL PROJECT
-A simple advertising portal to find pets a new owner.
-
-
 ## Spotify Clone App
 ### WORK IN PROGRESS 🤫 / [GitHub](https://github.com/szymanskijakub/spotify-clone-app)
 ### NON-COMMERCIAL PROJECT
