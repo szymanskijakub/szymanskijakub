@@ -25,17 +25,6 @@ I'm a programmer, specialising in web development. Coding since 2018, mainly in 
 - PHP (beginner)
 - GCP
 
-# Portfolio
-## Personal website
-### LIVE [jakubszymanski.dev](https://jakubszymanski.dev) / [GitHub](https://github.com/szymanskijakub/pawfinder-nest)
-### WORK IN PROGRESS
-My personal website where I keep my projects, source code in this repo 👆
-
-## Spotify Clone App
-### WORK IN PROGRESS 🤫 / [GitHub](https://github.com/szymanskijakub/spotify-clone-app)
-### NON-COMMERCIAL PROJECT
-Music playback app connected to Spotify API.
-
 
 If you want to message me, let's connect on [LinkedIn](https://www.linkedin.com/in/jakub-szyma%C5%84ski04), you can also [mail](mailto:yaaqov147@gmail.com) me :) 
 
